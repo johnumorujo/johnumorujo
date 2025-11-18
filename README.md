@@ -36,49 +36,33 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
   <img src="https://skillicons.dev/icons?i=linux" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Metasploit_logo_and_wordmark.svg/1198px-Metasploit_logo_and_wordmark.svg.png" height="50" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/burp-suite.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="50" />
   <img src="https://skillicons.dev/icons?i=python" height="50" />
 </p>
 
 <p align="center">
-  <!-- Web / AppSec Tools -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appwrite.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-</p>
-
-<p align="center">
   <!-- AD / Internal Red Team -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftazure.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/azurepipelines.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/Bluscream/Icons/main/BloodHound.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/CylanceNinja/Logos/master/Tools/impacket.png" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appwrite.svg" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/768px-Microsoft_Azure.svg.png" height="50" />
+  <span style="background-color:white; display:inline-block; padding:2px;">
+    <img src="https://avatars.githubusercontent.com/u/25502277?s=200&v=4" height="60" style="display:block;" />
+  </span>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3ftNINv0UZOag-3e7TxXDdOp_Y2UubeeBA&s" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Hashcat-icon.png" height="70" />
 </p>
 
-<p align="center">
-  <!-- Password Attacks -->
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/key.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/faviconkit/hashcat.org/ico/favicon.ico" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" height="50" />
-</p>
-
-<p align="center">
-  <!-- Network / WiFi / OSINT -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubiquiti.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/airbnb.svg" height="50" /> <!-- Placeholder for Aircrack -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openstreetmap.svg" height="50" />
-</p>
 
 <p align="center">
   <!-- Web3 / Smart Contract -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/solidity.svg" height="50" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5fBXn7gdNf-cAfk84sref9G_Rc8RrjnB6g&s" height="50" />
   <img src="https://skillicons.dev/icons?i=rust" height="50" />
-  <img src="https://raw.githubusercontent.com/foundry-rs/.github/main/logo.png" height="50" />
+  <img src="https://getfoundry.sh/og-image.png" height="50" />
 </p>
 
 **Other Tools:**  
