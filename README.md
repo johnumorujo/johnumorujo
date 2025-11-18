@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00FF99&center=true&vCenter=true&width=500&lines=Cybersecurity+Professional;Penetration+Tester;Web3+%2F+Smart+Contract+Security+Researcher;Offensive+Security+Engineer;Cybersecurity+Writer+%40+ClarenceSec" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00FF99&center=true&vCenter=true&width=500&lines=Cybersecurity+Professional;Penetration+Tester;Web3+Security+Researcher;Smart+Contract+Security+Auditor;Offensive+Security+Engineer;Cybersecurity+Writer+%40+ClarenceSec" />
 </p>
 
 ---
@@ -31,8 +31,54 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
 </p>
 
 ### 🧰 Offensive Security Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />  
+<p align="center">
+  <!-- Core Red Team / Pentest Tools -->
+  <img src="https://skillicons.dev/icons?i=linux" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Metasploit_logo_and_wordmark.svg/1198px-Metasploit_logo_and_wordmark.svg.png" height="50" />
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/burp-suite.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+</p>
+
+<p align="center">
+  <!-- Web / AppSec Tools -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appwrite.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+</p>
+
+<p align="center">
+  <!-- AD / Internal Red Team -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftazure.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/azurepipelines.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/Bluscream/Icons/main/BloodHound.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/CylanceNinja/Logos/master/Tools/impacket.png" height="50" />
+</p>
+
+<p align="center">
+  <!-- Password Attacks -->
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/key.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/faviconkit/hashcat.org/ico/favicon.ico" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" height="50" />
+</p>
+
+<p align="center">
+  <!-- Network / WiFi / OSINT -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubiquiti.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/airbnb.svg" height="50" /> <!-- Placeholder for Aircrack -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openstreetmap.svg" height="50" />
+</p>
+
+<p align="center">
+  <!-- Web3 / Smart Contract -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/solidity.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" />
+  <img src="https://raw.githubusercontent.com/foundry-rs/.github/main/logo.png" height="50" />
 </p>
 
 **Other Tools:**  
