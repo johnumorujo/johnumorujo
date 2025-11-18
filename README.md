@@ -30,7 +30,7 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
   <img src="https://skillicons.dev/icons?i=python,solidity,js,ts,bash" />
 </p>
 
-### 🧰 Offensive Security Tools
+### 🧰 Offensive Security / Web3 Security Stack
 <p align="center">
   <!-- Core Red Team / Pentest Tools -->
   <img src="https://skillicons.dev/icons?i=linux" height="50" />
@@ -64,13 +64,6 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
   <img src="https://skillicons.dev/icons?i=rust" height="50" />
   <img src="https://getfoundry.sh/og-image.png" height="50" />
 </p>
-
-**Other Tools:**  
-`Metasploit` · `Burp Suite` · `Nmap` · `Cobalt Strike` · `Wireshark` ·  
-`FFUF` · `BloodHound` · `SQLmap` · `Impacket` · `Responder` ·  
-`JohnTheRipper` · `Hashcat` · `Hydra` · `Empire` · `Evilginx` ·  
-`Foundry` · `Hardhat` · `Dirbuster` · `Nikto`
-
 ---
 
 ## 🔐 **Certifications**
