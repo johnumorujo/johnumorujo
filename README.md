@@ -64,16 +64,16 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
   <img src="https://skillicons.dev/icons?i=rust" height="50" />
   <img src="https://getfoundry.sh/og-image.png" height="50" />
 </p>
----
+
 
 ## 🔐 **Certifications**
 <p>
-  <img height="60" src="https://templates.images.credential.net/17303012308215729956811213381538.png" />
-  <img height="60" src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" />
-  <img height="60" src="https://templates.images.credential.net/17234811996744036153005682532231.png" />
-  <img height="60" src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" />
-  <img height="60" src="https://images.credly.com/size/220x220/images/44a5fe44-52e6-45c2-ae9a-41fd9183c81d/image.png" />
-  <img height="60" src="https://pentestingexams.com/wp-content/uploads/2023/02/Certified-Network-Security-Practitioner-whbg.png" />
+  <img height="90" src="https://templates.images.credential.net/17303012308215729956811213381538.png" />
+  <img height="90" src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" />
+  <img height="90" src="https://templates.images.credential.net/17234811996744036153005682532231.png" />
+  <img height="90" src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" />
+  <img height="90" src="https://images.credly.com/size/220x220/images/44a5fe44-52e6-45c2-ae9a-41fd9183c81d/image.png" />
+  <img height="90" src="https://pentestingexams.com/wp-content/uploads/2023/02/Certified-Network-Security-Practitioner-whbg.png" />
 
 </p>
 
@@ -84,7 +84,7 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
 • [**ISC² Certified in Cybersecurity**](https://www.credly.com/badges/2aa72359-f235-4a99-aa5f-ef8b76f004ba/public_url)  
 • [**Certified Network Security Practitioner**](https://www.credential.net/57e82dac-2202-4f30-895d-821634d40aae?username=johnumorujo)
 
----
+
 
 ## 🚀 **What I Do**
 ### 🔥 Penetration Testing / Red Team
@@ -102,13 +102,13 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
 ---
 
 ## 📝 **Writing & Content**
-- **Cybersecurity Writer @ ClarenceSec**  
+- **Cybersecurity Content Writer @ ClarenceSec**  
   https://clarensec.com/blog  
 - I create YouTube content on pentesting, lab setups, exams, CTFs, and smart contracts.  
 
 <p>
   <a href="https://www.youtube.com/@johnumorujo">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />
   </a>
 </p>
 
