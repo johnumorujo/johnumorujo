@@ -15,7 +15,7 @@ I specialize in **offensive security**, **healthcare cybersecurity**, **red team
 Founder of **ClarenceSec**, where I conduct security audits for hospitals & critical healthcare systems.
 
 My workflow is built on **high-impact security assessments**, exploit development, and researching vulnerabilities across:
-- Web & Mobile Apps  
+- Web, Mobile Apps & APIs
 - Network/Cloud/AD  
 - Blockchain & Smart Contracts (Solidity + Foundry)  
 
