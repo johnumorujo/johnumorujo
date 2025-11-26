@@ -33,43 +33,43 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
 ### 🧰 Offensive Security / Web3 Security Stack
 <p align="center">
   <!-- Core Red Team / Pentest Tools -->
-  <img src="https://skillicons.dev/icons?i=linux" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Metasploit_logo_and_wordmark.svg/1198px-Metasploit_logo_and_wordmark.svg.png" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="50" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Metasploit_logo_and_wordmark.svg/1198px-Metasploit_logo_and_wordmark.svg.png" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="80" />
+  <img src="https://skillicons.dev/icons?i=python" height="80" />
 </p>
 
 <p align="center">
   <!-- AD / Internal Red Team -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appwrite.svg" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/768px-Microsoft_Azure.svg.png" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appwrite.svg" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="80" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/768px-Microsoft_Azure.svg.png" height="80" />
   <span style="background-color:white; display:inline-block; padding:2px;">
-    <img src="https://avatars.githubusercontent.com/u/25502277?s=200&v=4" height="60" style="display:block;" />
+    <img src="https://avatars.githubusercontent.com/u/25502277?s=200&v=4" height="70" style="display:block;" />
   </span>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3ftNINv0UZOag-3e7TxXDdOp_Y2UubeeBA&s" height="70" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Hashcat-icon.png" height="70" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3ftNINv0UZOag-3e7TxXDdOp_Y2UubeeBA&s" height="74" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Hashcat-icon.png" height="80" />
 </p>
 
 
 <p align="center">
   <!-- Web3 / Smart Contract -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg" height="50" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5fBXn7gdNf-cAfk84sref9G_Rc8RrjnB6g&s" height="50" />
-  <img src="https://skillicons.dev/icons?i=rust" height="50" />
-  <img src="https://getfoundry.sh/og-image.png" height="50" />
+  <img src="https://www.citypng.com/public/uploads/preview/hd-ethereum-eth-purple-logo-sign-png-701751694771769kxirapfr36.png" height="80" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5fBXn7gdNf-cAfk84sref9G_Rc8RrjnB6g&s" height="80" />
+  <img src="https://skillicons.dev/icons?i=rust" height="80" />
+  <img src="https://getfoundry.sh/og-image.png" height="80" />
 </p>
 
 
 ## 🔐 **Certifications**
 <p>
   <img height="90" src="https://templates.images.credential.net/17303012308215729956811213381538.png" />
-  <img height="90" src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" />
+  <img height="100" src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" />
   <img height="90" src="https://templates.images.credential.net/17234811996744036153005682532231.png" />
   <img height="90" src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" />
   <img height="90" src="https://images.credly.com/size/220x220/images/44a5fe44-52e6-45c2-ae9a-41fd9183c81d/image.png" />
