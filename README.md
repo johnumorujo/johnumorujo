@@ -33,14 +33,14 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
 ### 🧰 Offensive Security / Web3 Security Stack
 <p align="center">
   <!-- Core Red Team / Pentest Tools -->
-  <img src="https://skillicons.dev/icons?i=linux" height="65" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="65" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Metasploit_logo_and_wordmark.svg/1198px-Metasploit_logo_and_wordmark.svg.png" height="65" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="65" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" height="65" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="65" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="65" />
-  <img src="https://skillicons.dev/icons?i=python" height="65" />
+  <img src="https://skillicons.dev/icons?i=linux" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="80" />
+  <img src="https://hackers-arise.com/wp-content/uploads/2023/11/6a4a49_75ddb2fd16b3431c92c8a5865ef0b1ddmv2.webp" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="80" />
+  <img src="https://skillicons.dev/icons?i=python" height="80" />
 </p>
 
 <p align="center">
