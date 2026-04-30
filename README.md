@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00FF99&center=true&vCenter=true&width=500&lines=Cybersecurity+Professional;Penetration+Tester;Web3+Security+Researcher;Smart+Contract+Security+Auditor;Offensive+Security+Engineer;Cybersecurity+Writer+%40+ClarenceSec" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00FF99&center=true&vCenter=true&width=520&lines=Cybersecurity+Professional;Penetration+Tester;Web3+Security+Researcher;Smart+Contract+Security+Auditor;Offensive+Security+Engineer;Vulnerability+Researcher;Bug+Bounty+Hunter;Cybersecurity+Writer+%40+ClarenceSec" />
 </p>
 
 ---
@@ -18,6 +18,7 @@ My workflow is built on **high-impact security assessments**, exploit developmen
 - Web, Mobile Apps & APIs
 - Network/Cloud/AD  
 - Blockchain & Smart Contracts (Solidity + Foundry)  
+- WordPress plugin & theme source-code audits
 
 I also write cybersecurity articles for **clarensec.com/blog** and create security content on YouTube.
 
@@ -98,6 +99,23 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
 - Foundry fuzzing + invariant testing  
 - Logic vulnerability analysis  
 - Web3 attack surface mapping  
+
+### 🐛 Vulnerability Research / Bug Bounty
+- WordPress plugin & theme source-code audits across **Patchstack**, **Wordfence**, **WPScan**, and vendor-direct CVD programs  
+- Unauth-to-RCE chains, auth bypass, IDOR, SQLi, and access-control flaws on plugins with **millions of installs**  
+- Coordinated disclosure with vendors and CNAs (advisories published under my name)  
+- Live PoCs and write-ups: **[johnumorujo/published-cves](https://github.com/johnumorujo/published-cves)**
+
+---
+
+## 🐛 **Selected CVEs / Advisories**
+
+| ID | Plugin | Class | CVSS |
+|---|---|---|---|
+| [`CVE-2026-6433`](https://github.com/johnumorujo/published-cves) | FlipperCode Custom CSS, JS & PHP `<= 2.0.7` | Unauth SQLi → RCE | **9.8** |
+| [`RSSSL 2FA Bypass`](https://github.com/johnumorujo/published-cves) | Really Simple Security `<= 9.5.10` (3M+ installs) | Auth Bypass (2FA) | **8.1** |
+
+More findings, PoCs, and video walkthroughs live at **[johnumorujo/published-cves](https://github.com/johnumorujo/published-cves)**.
 
 ---
 
