@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00FF99&center=true&vCenter=true&width=520&lines=Cybersecurity+Professional;Penetration+Tester;Web3+Security+Researcher;Smart+Contract+Security+Auditor;Offensive+Security+Engineer;Vulnerability+Researcher;Bug+Bounty+Hunter;Cybersecurity+Writer+%40+ClarenceSec" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00FF99&center=true&vCenter=true&width=520&lines=Cybersecurity+Professional;Vulnerability+Researcher;Bug+Bounty+Hunter;Penetration+Tester;Web3+Security+Researcher;Smart+Contract+Security+Auditor;Offensive+Security+Engineer;Cybersecurity+Writer+%40+ClarenceSec" />
 </p>
 
 ---
@@ -12,13 +12,13 @@
 ## 🧑‍💻 **About Me**
 I’m **John Umoru**, a cybersecurity professional, penetration tester, and Web3 security researcher.  
 I specialize in **offensive security**, **healthcare cybersecurity**, **red teaming**, and **smart contract security**.  
-Founder of **ClarenceSec**, where I conduct security audits for hospitals & critical healthcare systems.
+Founder of **ClarenceSec**, where I conduct security audits for Critical systems.
 
 My workflow is built on **high-impact security assessments**, exploit development, and researching vulnerabilities across:
 - Web, Mobile Apps & APIs
 - Network/Cloud/AD  
 - Blockchain & Smart Contracts (Solidity + Foundry)  
-- WordPress plugin & theme source-code audits
+- Source-code audits
 
 I also write cybersecurity articles for **clarensec.com/blog** and create security content on YouTube.
 
