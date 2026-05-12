@@ -113,7 +113,7 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
 | ID | Plugin | Class | CVSS |
 |---|---|---|---|
 | [`CVE-2026-6433`](https://github.com/johnumorujo/published-cves) | FlipperCode Custom CSS, JS & PHP `<= 2.0.7` | Unauth SQLi → RCE | **9.8** |
-| [`RSSSL 2FA Bypass`](https://github.com/johnumorujo/published-cves) | Really Simple Security `<= 9.5.10` (3M+ installs) | Auth Bypass (2FA) | **8.1** |
+| [`CVE-2026-8293`](https://github.com/johnumorujo/published-cves) | Really Simple Security `<= 9.5.10` (3M+ installs) | Auth Bypass (2FA) | **8.1** |
 
 More findings, PoCs, and video walkthroughs live at **[johnumorujo/published-cves](https://github.com/johnumorujo/published-cves)**.
 
