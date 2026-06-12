@@ -113,9 +113,9 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
 | ID | Plugin | Class | CVSS |
 |---|---|---|---|
 | [`CVE-2026-6433`](https://github.com/johnumorujo/published-cves) | FlipperCode Custom CSS, JS & PHP `<= 2.0.7` | Unauth SQLi → RCE | **10.0** |
-| [`CVE-2026-8089`](https://github.com/johnumorujo/published-cves) | weMail `<= 2.1.0` | Reflected XSS → Admin Takeover | **9.0** |
-| [`CVE-2026-11965`](https://github.com/johnumorujo/published-cves) | User Registration & Membership `<= 5.1.5` | Unauth Paid Membership Bypass | **8.2** |
-| [`CVE-2026-8293`](https://github.com/johnumorujo/published-cves) | Really Simple Security `<= 9.5.10` (3M+ installs) | Auth Bypass (2FA) | **8.1** |
+| [`CVE-2026-8293`](https://github.com/johnumorujo/published-cves) | Really Simple Security `<= 9.5.10` (3M+ installs) | Auth Bypass (2FA) | **7.5** |
+| [`CVE-2026-8089`](https://github.com/johnumorujo/published-cves) | weMail `<= 2.1.0` | Reflected XSS → Admin Takeover | **7.1** |
+| [`CVE-2026-11965`](https://github.com/johnumorujo/published-cves) | User Registration & Membership `<= 5.1.5` | Unauth Paid Membership Bypass | **6.5** |
 
 More findings, PoCs, and video walkthroughs live at **[johnumorujo/published-cves](https://github.com/johnumorujo/published-cves)**.
 
