@@ -12,7 +12,7 @@
 ## 🧑‍💻 **About Me**
 I’m **John Umoru**, a cybersecurity professional, penetration tester, and Web3 security researcher.  
 I specialize in **offensive security**, **healthcare cybersecurity**, **red teaming**, and **smart contract security**.  
-Founder of **ClarenceSec**, where I conduct security audits for Critical systems.
+Founder of **ClarenSec**, where I conduct security audits for Critical systems.
 
 My workflow is built on **high-impact security assessments**, exploit development, and researching vulnerabilities across:
 - Web, Mobile Apps & APIs
