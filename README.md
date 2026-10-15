@@ -55,7 +55,6 @@ I also write cybersecurity articles for **clarensec.com/blog** and create securi
   </span>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3ftNINv0UZOag-3e7TxXDdOp_Y2UubeeBA&s" height="74" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Hashcat-icon.png" height="80" />
-  <a href="https://www.toptal.com/developers/resume/john-umoru1#608w2P">Hire me on Toptal</a>
 
 </p>
 
